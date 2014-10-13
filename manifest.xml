@@ -1,0 +1,35 @@
+<?xml version='1.0'?>
+<module>
+  <name>KeyboardJunkie</name>
+  <label>Keyboard Junkie</label>
+  <parent></parent>
+  <type>extension</type>
+  <version>1.1.2</version>
+    <license>
+      <inline><![CDATA[
+        **************************************************************************************
+         *  Module              : Keyboard Junkie
+         *  Version             : 1.1.1
+         *  Date Published      : 
+         *  Vtiger              : 6.1.0
+         *  Authors             : Alan Bell
+                                : Libertus Solutions: http://libertus.co.uk
+         *  License             : vtiger CRM Public License Version 1.0
+         *  Including           : https://github.com/yckart/jquery.key.js
+         ***************************************************************************************
+       ]]></inline>
+    </license>
+  <dependencies>
+    <vtiger_version>6.1.0</vtiger_version>
+  </dependencies>
+  <tables>
+  </tables>
+  <sharingaccess>
+    <default>public_readwritedelete</default>
+  </sharingaccess>
+  <customlinks>
+  </customlinks>
+  <crons>
+  </crons>
+</module>
+
